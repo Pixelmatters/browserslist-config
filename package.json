@@ -17,6 +17,9 @@
     "config",
     "pixelmatters"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Gil Mendes <gil0mendes@gmail.com>",
   "contributors": [],
   "license": "MIT",
