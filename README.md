@@ -7,18 +7,18 @@
 </p>
 
 <h1 align="center">
-    {PROJECT NAME}
+    Browserlist Config
 </h1>
 
 <h4 align="center">
-    {PROJECT DESCRIPTION}
+    A common <a href="https://github.com/browserslist/browserslist" target="_blank">browser list</a> config for Pixelmatters projects.
 </h4>
 
 <p align="center">
-    <a href="https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="eslint-config-pixelmatters is released under the MIT license." />
+    <a href="https://github.com/Pixelmatters/browserlist-config/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="browserlist-config is released under the MIT license." />
     </a>
-    <a href="https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/master/CONTRIBUTING.md">
+    <a href="https://github.com/Pixelmatters/browserlist-config/blob/master/CONTRIBUTING.md">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=pixelmatters_">
@@ -26,4 +26,38 @@
     </a>
 </p>
 
-## {CHAPTER}
+## 🚀 Get Up and Running
+
+You can install this package using either **npm** or **yarn**.
+
+**Using Yarn:**
+
+```shell
+yarn add @pixelmatters/browserslist-config -D
+```
+
+**Using NPM:**
+
+```shell
+npm install --save-dev @pixelmatters/browserslist-config
+```
+
+## Usage
+
+You can reference the shared config in your `package.json`:
+
+```json
+"browserslist": [
+    "extends @pixelmatters/browserslist-config"
+]
+```
+
+## 🤝 How to Contribute
+
+Whether you're helping us fix bugs, improve the docs, or spread the word, thank you! 💪 🧡
+
+Check out our [**Contributing Guide**](https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/master/CONTRIBUTING.md) for ideas on contributing and setup steps.
+
+## :memo: License
+
+Licensed under the [MIT License](./LICENSE).

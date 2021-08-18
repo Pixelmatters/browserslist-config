@@ -1,0 +1,8 @@
+*.gz
+*.tgz
+
+test/*
+pids
+logs
+coverage
+.eslintrc

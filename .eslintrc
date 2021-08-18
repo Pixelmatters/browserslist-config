@@ -1,0 +1,6 @@
+{
+  "extends": "@pixelmatters/eslint-config-pixelmatters",
+  "env": {
+      "jest": true
+  }
+}
