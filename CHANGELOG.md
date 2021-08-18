@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Pixelmatters/browserslist-config/compare/v1.0.0...v1.0.1) (2021-08-18)
+
+
+### Bug Fixes
+
+* typo on the release workflow ([9b4392d](https://github.com/Pixelmatters/browserslist-config/commit/9b4392d3ac22cb39b421dbf39b3054323f8ef720))
+
 # 1.0.0 (2021-08-18)
 
 
