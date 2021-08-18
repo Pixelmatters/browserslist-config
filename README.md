@@ -15,10 +15,10 @@
 </h4>
 
 <p align="center">
-    <a href="https://github.com/Pixelmatters/browserlist-config/blob/master/LICENSE">
+    <a href="https://github.com/Pixelmatters/browserlist-config/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="browserlist-config is released under the MIT license." />
     </a>
-    <a href="https://github.com/Pixelmatters/browserlist-config/blob/master/CONTRIBUTING.md">
+    <a href="https://github.com/Pixelmatters/browserlist-config/blob/main/CONTRIBUTING.md">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=pixelmatters_">
@@ -56,7 +56,7 @@ You can reference the shared config in your `package.json`:
 
 Whether you're helping us fix bugs, improve the docs, or spread the word, thank you! 💪 🧡
 
-Check out our [**Contributing Guide**](https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/master/CONTRIBUTING.md) for ideas on contributing and setup steps.
+Check out our [**Contributing Guide**](https://github.com/Pixelmatters/eslint-config-pixelmatters/blob/main/CONTRIBUTING.md) for ideas on contributing and setup steps.
 
 ## :memo: License
 
