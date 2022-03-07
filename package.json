@@ -29,7 +29,7 @@
   "homepage": "https://github.com/Pixelmatters/browserslist-config#readme",
   "devDependencies": {
     "@pixelmatters/eslint-config-pixelmatters": "^1.0.2",
-    "@semantic-release/npm": "^8.0.0",
+    "@semantic-release/npm": "^9.0.1",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "browserslist": "^4.16.7",
     "eslint": "^7.32.0",
