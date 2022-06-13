@@ -30,7 +30,7 @@
   "devDependencies": {
     "@pixelmatters/eslint-config-pixelmatters": "^1.0.2",
     "@semantic-release/npm": "^8.0.0",
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
     "browserslist": "^4.16.7",
     "eslint": "^7.32.0",
     "eslint-plugin-prettier": "^4.0.0",
