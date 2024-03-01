@@ -10,12 +10,12 @@
     Browserlist Config
 </h1>
 
-<h4 align="center">
+<h3 align="center">
     A common <a href="https://github.com/browserslist/browserslist" target="_blank">browser list</a> config for Pixelmatters projects.
-</h4>
+</h3>
 
 <p align="center">
-    <a href="https://github.com/Pixelmatters/browserlist-config/blob/main/LICENSE">
+    <a href="https://github.com/Pixelmatters/browserslist-config/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="browserlist-config is released under the MIT license." />
     </a>
     <a href="https://github.com/Pixelmatters/browserlist-config/blob/main/CONTRIBUTING.md">
